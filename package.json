@@ -1,0 +1,26 @@
+{
+  "name": "coin_changer_javascript",
+  "version": "1.0.0",
+  "description": "coin changer initialization",
+  "main": "CoinChanger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "assert.isEqual(change[\"quarters\"], 0);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azreal30/coin_changer_javascript.git"
+  },
+  "author": "stephen villot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azreal30/coin_changer_javascript/issues"
+  },
+  "homepage": "https://github.com/azreal30/coin_changer_javascript#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
